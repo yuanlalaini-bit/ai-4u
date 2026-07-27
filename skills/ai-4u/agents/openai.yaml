@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI-4U"
+  short_description: "帮助新手发现方向、明确任务，并让 AI 理解后再执行"
+  default_prompt: "Use $ai-4u to help me clarify or discover what I want before execution."
